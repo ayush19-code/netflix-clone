@@ -6,10 +6,7 @@ This project was built to practice frontend web development and recreate a respo
 
 ## 🌐 Live Demo
 
-🚀 [View Live Project]([YOUR-LIVE-WEBSITE-LINK-HERE](https://streamflix-92dplaor3-ayush369saini-6611s-projects.vercel.app/))
-
-> Replace `YOUR-LIVE-WEBSITE-LINK-HERE` with your deployed Vercel URL.
-
+🚀 [View Live Project](https://streamflix-92dplaor3-ayush369saini-6611s-projects.vercel.app/)
 ## 📖 About the Project
 
 StreamFlix is a UI clone inspired by Netflix. It focuses on recreating the visual design and user experience of a popular streaming platform.
