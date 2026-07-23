@@ -6,10 +6,7 @@ The project focuses on recreating a modern OTT/streaming service interface with 
 
 ## 🌐 Live Demo
 
-🚀 [View Live Project](YOUR-VERCEL-LINK-HERE)
-
-> Replace `YOUR-VERCEL-LINK-HERE` with your live deployment URL.
-
+🚀 [View Live Project](https://streamflix-92dplaor3-ayush369saini-6611s-projects.vercel.app/)
 ## ✨ Features
 
 - 🎬 Modern streaming-platform-inspired interface
